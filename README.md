@@ -1,5 +1,5 @@
 # node-version
-alternative to nvm (node version switch) that doesn't require admin permissions
+alternative to [nvm](https://github.com/coreybutler/nvm-windows) (node version switch) **for Windows** that _doesn't require admin permissions_
 ## setup:
 copy [node-version.exe](node-version.exe) and [node-version.ps1](node-version.ps1) to directory with your Node.js versions
 add a directory to your `Path`
