@@ -24,13 +24,6 @@ example structure:
 ├── node-version.exe
 ├── node-version.go
 ├── node-version.ps1
-├── v14.21.3
-│   ├── node64.exe
-│   ├── node_modules
-│   ├── npm
-│   ├── npm.cmd
-│   ├── npx
-│   └── npx.cmd
 ├── v16.20.2
 │   ├── node.exe
 │   ├── node_modules
